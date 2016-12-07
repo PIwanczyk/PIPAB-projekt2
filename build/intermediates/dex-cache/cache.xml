@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_881ef03279618afee93f1dd6e789671f21f6f69d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ce5c6af634dbc03d3b67f08698616a95493d15f">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2b5ed2d31d7360c864416e9af7cac41c6682901e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_25dc670518b892db8507a8c7be2a4772b96a4fc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_82278fd3c2b8adff856264719455e15297a44982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0db43ff3d19bae6601c7fa1de1c52e624d2a66c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_667a566bc90dc62f8a6914e42c4172ae96ca6f91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_34da6ac76e90cf96d1ff932abc5b98ee2b7729fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6f82bfaa9f6e3761e1c2c1ef3f113271c3abf9">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2e87b9c88ef89e5ef26347772a4e01f72ec17b6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_76f27d57ecff8285686c8b179a350b70a888cfe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b57237abf57873181024925119f5b29e04e24b52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9860c73e12607bb62867a004304b5a6ca37b3146/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_df1e899a8589bcd94a6a2ad2ea0694a63e7e31e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a9a18948b5bc6da0ae686250c5aa65630c48fa00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_24a8f041f78a180450a88d6cfc3d3d0acd0a4057/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_1d9b91f8262fa3058e5bf283361e67b848d67b66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_fefe35109d5757fbac8b32e869a6615f3c78e3f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_b1e668db36568a66903a1e0a72c41d5e332beb2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a081536d9491fd9afca0438032ef6de69431a07">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_62e5e30b12c41810d336bcaf2b29e27937c05d01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_7774ff72707aebd13e2236deb81a3b886f038e6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_14d553ebb9039736a9878045771be95aa5aa987a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_e7014522147326d4a03c0ac025e487b50812bb8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_379b4e58e9a9af8a569469487419d4cee71a8808/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_2cf309b8bc39ba57bebce7f9e5985553e0296cee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_1ad8dacb655c90d7e867fb83f5ea43709897dafc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_e36d70761539a152e3b4e0e3c078903d07d023df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_69f218684aff74bbf0700cf4426b35ef2ccfdf3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_f7c57d9aed1eb1368c5c933fb72187e35e65283a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_3cc8ecfdc22d60ea3ddd466a5b41dc683475f070/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_83f0de030e87b1d5c5596747a6ba867d8065776e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="df841605a5b82529bf5d1f2e0b5845e799567695">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_247847b74cd3bb3138f4f812320bb8581c74993d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_d9033f2dc00b5d33e1f16470654e1d1ae87df2c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b9aabce09a6439f89fe05df6f62b9acf4ed60b37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_3d7a2c8038422313aad0cd4d0e96eb6d0c0b5840/classes.dex" />
+    </item>
+
+</items>

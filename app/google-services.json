@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "349846287213",
+    "firebase_url": "https://savemoney-8ee83.firebaseio.com",
+    "project_id": "savemoney-8ee83",
+    "storage_bucket": "savemoney-8ee83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349846287213:android:7ffd9bf6f0599479",
+        "android_client_info": {
+          "package_name": "com.example.paulinalusiak.savemoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349846287213-s369bp5umuphbk6rt4g860c9hk21ut95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paulinalusiak.savemoney",
+            "certificate_hash": "DDABD5256DF30EA71B92C4E8E244DBB09E97A83E"
+          }
+        },
+        {
+          "client_id": "349846287213-3t04r31dhcqm4rbrgfmr1nuuqqh2sprc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBegvTsjXl4jgfL4hkl7_RkL3Jrcxe0zw8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349846287213-3t04r31dhcqm4rbrgfmr1nuuqqh2sprc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

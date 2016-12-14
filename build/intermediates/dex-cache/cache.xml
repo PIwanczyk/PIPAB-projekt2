@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="9ce5c6af634dbc03d3b67f08698616a95493d15f">
+        sha1="34bc3fb0f28e1d2c6f4935b2aec39dc227465c36">
         <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2b5ed2d31d7360c864416e9af7cac41c6682901e/classes.dex" />
     </item>
     <item
@@ -30,21 +30,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_82278fd3c2b8adff856264719455e15297a44982/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
         <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0db43ff3d19bae6601c7fa1de1c52e624d2a66c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_82278fd3c2b8adff856264719455e15297a44982/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -138,12 +138,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_b5ae607f30bf87db42ae7f3598d4aca4bfb10e3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
         <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_fefe35109d5757fbac8b32e869a6615f3c78e3f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_a259621b7cbcaa8272e391cc2548c0ff05507e86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_38cd53ba7f872d7468ddaaf0515902154a1e7874/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -183,6 +210,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_47f8172fb004853adf7860b890a6d12adb8f66c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_ab2fd1cb81473ef96f03bd7bbd267484f03fe4aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -198,6 +243,24 @@
         revision="25.0.0"
         sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
         <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_379b4e58e9a9af8a569469487419d4cee71a8808/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_fba97eb2af34e5bee76fc5d27db78aa8052cae3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_9b7af932880af65e8cd37c118599c91ea5404e5f/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -228,12 +291,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_69f218684aff74bbf0700cf4426b35ef2ccfdf3e/classes.dex" />
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_9a92f2ebc21d476dc4ec7fb9f9bb0d542eadedee/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -243,6 +306,15 @@
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/Users/paulinalusiak/AndroidStudioProjects/SaveMoney/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_f7c57d9aed1eb1368c5c933fb72187e35e65283a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_69f218684aff74bbf0700cf4426b35ef2ccfdf3e/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -268,7 +340,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="df841605a5b82529bf5d1f2e0b5845e799567695">
+        sha1="8f2d462421661934d9f6a21f82a0262a22fdf0cd">
         <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_247847b74cd3bb3138f4f812320bb8581c74993d/classes.dex" />
     </item>
     <item
@@ -291,12 +363,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_b4834dd931d29485908a713bd34ef83802230cff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="26674000177e45447a0326a6ad84612761199a13">
         <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_3d7a2c8038422313aad0cd4d0e96eb6d0c0b5840/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/paulinalusiak/Projekty/PIPAB-projekt/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_340a5041e78c65e8e5c031bf3b6d4f8322ef6626/classes.dex" />
     </item>
 
 </items>

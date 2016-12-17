@@ -1,6 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="C:\Users\piwan\Documents\GitHub\PIPAB-projekt" />
+    <option name="myPathToGit" value="C:\Users\piwan\Documents\GitHub\PIPAB-projekt\build.gradle" />
     <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
   </component>
 </application>
